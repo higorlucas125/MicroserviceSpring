@@ -28,3 +28,21 @@ replay_pid*
 
 # ingore file target of java 
 target/*
+
+# ignore file to dados
+dados/*
+
+# ignore
+
+../.idea/*
+../target/*
+StockAndPrice/.idea/*
+StockAndPrice/target/*
+
+comsumer-stock/.idea/*
+comsumer-stock/target/*
+
+libRabbitMQ/.idea/*
+libRabbitMQ/target/*
+
+
